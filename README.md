@@ -11,4 +11,4 @@ prediction. Utilizing both the supervised and unsupervised learning, it acknowle
 maintenance needs, focusing to minimize the unexpected downtime and reducing the cost. The 
 project adopts the CRISP-DM methodology, encompassing data understanding, preparation, 
 modelling, evaluation, and deployment phases. The solution of this project could help industry 
-to lower the chance of unexpected downtime and reduce costs
+to lower the chance of unexpected downtime and reduce costs.
