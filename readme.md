@@ -185,10 +185,15 @@ The Streamlit dashboard features three main modes for demos:
 
 ---
 
+## Live Demo
+
+**[Try it out!](https://predictive-maintenance-hf3d.onrender.com/)**
+
+---
+
 ## Author
 
 **Shubham Kumar**  
-*Data Engineering & AI/ML Intern*
 
 - [LinkedIn](https://www.linkedin.com/in/shubhamkumar311/)
 - [GitHub](https://github.com/shhubham311)
